@@ -1,0 +1,12 @@
+# For Linux or macOS:
+source venv/bin/activate
+
+# For Windows:
+venv\Scripts\activate
+
+Install the dependencies using requirements.txt file:
+pip install -r requirements.txt
+
+Use the following command to start the bot:
+python bot/main.py
+python bot/server.py
